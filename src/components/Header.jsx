@@ -18,7 +18,7 @@ const Header = ({
     setGasto={setGasto}
     presupuesto = {presupuesto}
     setPresupuesto = {setPresupuesto}
-    isValidPresupuesto={isValidPresupuesto}
+    setIsValidPresupuesto={setIsValidPresupuesto}
     />) 
     : 
     ( 
